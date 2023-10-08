@@ -10,7 +10,9 @@
     "autoprefixer": "^10.4.0",
     "postcss": "^8.4.4",
     "tailwindcss": "^2.2.19",
+    "three": "^0.157.0",
     "vue": "^3.2.16",
+    "vue-3d-loader": "^2.2.0",
     "vue-router": "^4.0.12"
   },
   "devDependencies": {
